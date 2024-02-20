@@ -28,7 +28,7 @@
 		$mysqli = $_SESSION['mysqli'];
 		
 		
-		  if(isset($_POST['InputSubmit'])){
+		  if(isset($_POST['submit'])){
 			$Inputname = $mysqli->real_escape_string($_POST['name']);
 			$Inputfirma = $mysqli->real_escape_string($_POST['firma']);
 			$Inputreplyto  = $mysqli->real_escape_string($_POST['replyto']);
