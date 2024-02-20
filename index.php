@@ -663,6 +663,7 @@
 															</div>
 															<div class="row">
 																<div class="col">
+																	<div class="p pb-3"><?php echo $message ?></div>
 																	<button class="btn btn-primary" type="submit">Send</button>
 																</div>
 															</div>
