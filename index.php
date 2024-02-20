@@ -526,7 +526,7 @@
 													<figure class="cc-effect"><img src="images/oil.jpg" alt="Image">
 														<figcaption>
 															<div class="h4">Kretaoilveoil</div>
-															<p>test</p>
+															<p>Website I made for my father</p>
 														</figcaption>
 													</figure>
 												</a>
