@@ -631,7 +631,7 @@
 											<div class="row">
 												<div class="col-md-6">
 													<div class="card-body">
-														<form method="POST">
+														<form action="#contact" method="POST">
 															<div class="p pb-3"><strong>contact me</strong></div>
 															<div class="row mb-3">
 																<div class="col">
